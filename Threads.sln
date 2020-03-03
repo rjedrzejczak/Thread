@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads", "Threads\Threads.csproj", "{45FB4E2A-C96C-491E-B620-9206CA07CBAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksInConsole", "TasksInConsole\TasksInConsole.csproj", "{1E2F2614-DB00-489E-B2CA-9B753B077B18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{45FB4E2A-C96C-491E-B620-9206CA07CBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45FB4E2A-C96C-491E-B620-9206CA07CBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45FB4E2A-C96C-491E-B620-9206CA07CBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2F2614-DB00-489E-B2CA-9B753B077B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2F2614-DB00-489E-B2CA-9B753B077B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2F2614-DB00-489E-B2CA-9B753B077B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2F2614-DB00-489E-B2CA-9B753B077B18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
